@@ -6,14 +6,14 @@ Python
 Visual Studio Code
 
 ## Requirements
-beautifulsoup4==4.9.0
-bs4==0.0.1
-certifi==2020.4.5.1
-chardet==3.0.4
-idna==2.9
-requests==2.23.0
-soupsieve==2.0
-urllib3==1.25.9
+    beautifulsoup4==4.9.0
+    bs4==0.0.1
+    certifi==2020.4.5.1
+    chardet==3.0.4
+    idna==2.9
+    requests==2.23.0
+    soupsieve==2.0
+    urllib3==1.25.9
 
 
 
@@ -32,3 +32,5 @@ urllib3==1.25.9
  
  5. Click 'Run > Start Debugging' 
 
+## Output ##
+    carrefour.json
