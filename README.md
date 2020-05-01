@@ -22,8 +22,8 @@ urllib3==1.25.9
 2. Open using Visual Studio Code
 3. Click 'Terminal > New Terminal'
 3. On the 'TERMINAL' window type the following commands
-  #### create a virtual environment ####
-  python -m venv venv_c4  
+  
+  python -m venv venv_c4  #### create a virtual environment
   #### activates virtual environment ####
   venv_c4/scripts/activate 
   #### install 'requests' and 'beautiful soup 4' modules ####
