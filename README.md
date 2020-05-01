@@ -33,5 +33,7 @@ Visual Studio Code
  5. Click 'Run > Start Debugging' 
 
 ## Output ##
-    carrefour.json
-    ![alt tag](/carrefour.json)
+    
+    [carrefour.json](https://github.com/avtividad/web-scraping/blob/master/carrefour.json)
+    
+ 
