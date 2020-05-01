@@ -33,7 +33,6 @@ Visual Studio Code
  5. Click 'Run > Start Debugging' 
 
 ## Output ##
-    
-    [carrefour.json](https://github.com/avtividad/web-scraping/blob/master/carrefour.json)
+[carrefour.json](/carrefour.json)
     
  
