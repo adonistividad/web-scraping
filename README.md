@@ -34,3 +34,4 @@ Visual Studio Code
 
 ## Output ##
     carrefour.json
+    ![alt tag](/carrefour.json)
