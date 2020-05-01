@@ -23,12 +23,12 @@ urllib3==1.25.9
 3. Click 'Terminal > New Terminal'
 3. On the 'TERMINAL' window type the following commands
 
-#### create a virtual environment ####
-python -m venv venv_c4  
-#### activates virtual environment ####
-venv_c4/scripts/activate 
-#### install 'requests' and 'beautiful soup 4' modules ####
-pip install requests bs4  
+  #### 3.a. Create a virtual environment 
+  python -m venv venv_c4  
+  #### 3.b. Activate virtual environment  
+  venv_c4/scripts/activate 
+  #### 3.c. Install 'requests' and 'beautiful soup 4' modules  
+  pip install requests bs4  
   
  4. Click 'Run > Start Debugging' 
 
